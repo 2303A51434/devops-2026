@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "Mercykiran",
+  "username": "Hasmika",
+  "email": "abc@gmail.com",
+
+  "address": {
+    "street": "Vidyanagar Colony",
+     "city": "Hanamkonda",
+    "zipcode": "506 001",
+  },
+
+  "phone": "9822445511",
+  "website": "SRU.org",
+  "company": 
+  {
+   "name": "Wipro",
+    "catchPhrase": "Multi-layered client-server neural-net",   
+  }
+}
